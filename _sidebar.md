@@ -1,4 +1,10 @@
 - [Docsify Example Panels](index.md)
+- 一些环境配置
+  - [我的MacBook Pro](Env_Settings/2021-06-27-Hello_Mac_Book_Pro.md)
+- LeetCode
+  - 初级算法
+    - [基础知识-O(?)](LeetCode/2021-07-04-算法的时间复杂度与空间复杂度.md)
+    - [1. 删除数组中重复项](LeetCode/2021-07-04-删除排序数组中的重复项.md)
 - **Links**
 - [![Github](https://icongr.am/simple/github.svg?color=808080&size=32)GITHUB](https://github.com/Sirius0301)
 - [![CNBlog](https://icongr.am/simple/bloglovin.svg?color=808080&size=32)CNBLOG](https://www.cnblogs.com/sirius-wang/)
