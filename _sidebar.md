@@ -1,5 +1,5 @@
 - [Docsify Example Panels](index.md)
-- 一些环境配置
+- 环境配置
   - [我的MacBook Pro](Env_Settings/2021-06-27-Hello_Mac_Book_Pro.md)
 - LeetCode
   - 初级算法
