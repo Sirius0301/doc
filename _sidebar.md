@@ -1,6 +1,8 @@
 - [Docsify Example Panels](index.md)
 - 环境配置
   - [我的MacBook Pro](Env_Settings/2021-06-27-Hello_Mac_Book_Pro.md)
+- Python
+  - [Python快速上手](Python/2021-07-05-Python快速上手.md)
 - LeetCode
   - 初级算法
     - [基础知识-O(?)](LeetCode/2021-07-04-算法的时间复杂度与空间复杂度.md)
