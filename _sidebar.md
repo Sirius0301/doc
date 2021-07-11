@@ -9,6 +9,8 @@
   - 初级算法
     - [基础知识-O(?)](LeetCode/2021-07-04-算法的时间复杂度与空间复杂度.md)
     - [1. 删除数组中重复项](LeetCode/2021-07-04-删除排序数组中的重复项.md)
+- Fitness
+  - [全身拉伸运动](Fitness/2021-07-11_全身拉伸运动.md)
 - **Links**
 - [![Github](https://icongr.am/simple/github.svg?color=808080&size=32)GITHUB](https://github.com/Sirius0301)
 - [![CNBlog](https://icongr.am/simple/bloglovin.svg?color=808080&size=32)CNBLOG](https://www.cnblogs.com/sirius-wang/)
