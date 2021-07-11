@@ -1,7 +1,7 @@
 - [Docsify Example Panels](index.md)
 - 环境配置
   - [我的MacBook Pro](Env_Settings/2021-06-27-Hello_Mac_Book_Pro.md)
-  - [Mac下Pycharm快捷键](Env_Settings/2021-06-27-Hello_Mac_Book_Pro.md)
+  - [Mac下Pycharm快捷键](Env_Settings/2021-07-10-Mac_Pycharm_KeyMap.md)
 - Python
   - [Python快速上手](Python/2021-07-05-Python快速上手.md)
   - [Python列表数据](Python/2021-07-05-Python列表数据.md)
