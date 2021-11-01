@@ -96,12 +96,12 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 ### Gien Tech 2021.1-Now（9 Month）
 
-<table width="600">
-  <tr width="300">
+<table>
+ <tr>
     <td>Title：Senior DevOps Engineer</td>
     <td>Area：Shanghai-Pudong</td>
   </tr>
-  <tr width="300">
+ <tr>
     <td>Department：Citi GSP DevOps</td>
     <td>Report To：Team Leader</td>
   </tr>
@@ -129,12 +129,12 @@ As vendor working at Citi, I was promised to be FTE by Gien Tech within 6 months
 
 ### Cognizant 2020.04-2021.01（7 Month）
 
-<table width="600">
-  <tr width="300">
+<table>
+ <tr>
     <td>Title：Project Associate</td>
     <td>Area：Shanghai-Pudong</td>
   </tr>
-  <tr width="300">
+ <tr>
     <td>Department：Infra Service</td>
     <td>Report To：Team Leader</td>
   </tr>
@@ -160,12 +160,12 @@ Working contents were bit easy for me. After communicating with the leader, ther
 
 ### Linde Forklift Company 2018.04-2020.03（1 year 11 month）
 
-<table width="600">
-  <tr width="300">
+<table>
+ <tr>
     <td>Title：Software Developer – Java</td>
     <td>Area：Shanghai-Minghang</td>
   </tr>
-  <tr width="300">
+ <tr>
     <td>Department：DevOps</td>
     <td>Report To：Team Leader</td>
   </tr>
@@ -192,12 +192,12 @@ Over workload, there is no change after communicating with the leader. Although 
 
 ### Intec Wuhan 2016.07-2018.03（1 year 8 month）
 
-<table width="600">
-  <tr width="300">
+<table>
+ <tr>
     <td>Title：Software Engineer</td>
     <td>Area：Wuhan-Hongshan</td>
   </tr>
-  <tr width="300">
+ <tr>
     <td>Department：Development</td>
     <td>Report To：PM</td>
   </tr>
@@ -222,7 +222,7 @@ I came to Shanghai with my friends to seek new opportunities and better career d
 
 ## Education
 
-<table width="600">
+<table>
   <tr>
     <td>Wuhan Donghu University</td>
     <td>Computer Science Technology / Fulltime</td>
@@ -236,7 +236,7 @@ I came to Shanghai with my friends to seek new opportunities and better career d
 
 ### GSP Jenkins Shared Libary
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Citi GSP DevOps</td>
     <td>Title：Senior DevOps Engineer</td>
@@ -266,7 +266,7 @@ Jenkins Shared Library in open shift
 
 ### GSP DevOps ETL
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Citi GSP DevOps</td>
     <td>Title：Senior DevOps Engineer</td>
@@ -292,7 +292,7 @@ Spring Boot projects that collecting the development team uses LightSpeed Piplin
 
 ### GSP LightSpeed UI
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Citi GSP DevOps</td>
     <td>Title：Senior DevOps Engineer</td>
@@ -320,7 +320,7 @@ Angular project, mainly to help users create a new LightSpeed Pipeline.
 
 ### Swiss R-AliCloud
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Cognizant</td>
     <td>Title：Junior DevOps Engineer</td>
@@ -349,7 +349,7 @@ Resource management, daily monitoring and maintenance of Alibaba Cloud under the
 
 ### Linde Asset Management System(AMS)
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Linde Forklift Company</td>
     <td>Title：Soft Engineer-java(DevOps)</td>
@@ -381,7 +381,7 @@ The AMS project is delayed for two months before coming online, and many difficu
 
 ### Still Fleet Management
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Linde Forklift Company</td>
     <td>Title：Soft Engineer-java(DevOps)</td>
@@ -408,7 +408,7 @@ Germany Still DevOps led the development project. The first phase was mainly dev
 
 ### Internal service system development
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Intec WuHan</td>
     <td>Title：Software Engineer</td>
@@ -432,7 +432,7 @@ Mainly responsible for the detailed design of writing module, application unit t
 
 ### Development of management automation system in parent company
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Intec WuHan</td>
     <td>Title：Software Engineer</td>
@@ -455,7 +455,7 @@ Mainly involved in database construction, detailed design, single development, s
 
 ### Banks Finet
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Intec WuHan</td>
     <td>Title：Software Engineer</td>
@@ -478,7 +478,7 @@ Mainly responsible for unit development, unit test and Junit test.
 
 ### Banks じもと
 
-<table width="600">
+<table>
   <tr>
     <td>Company：Intec WuHan</td>
     <td>Title：Software Engineer</td>
