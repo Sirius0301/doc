@@ -96,12 +96,12 @@
 
 ### 中电金信 2021.01-至今（9个月）
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>职位：高级运维开发工程师</td>
     <td>工作地点：上海-浦东新区</td>
   </tr>
-  <tr width="100">
+  <tr width="300">
     <td>所在部门：Citi GSP DevOps</td>
     <td>汇报对象：Team Leader</td>
   </tr>
@@ -129,12 +129,12 @@
 
 ### 高知特信息技术(上海)有限公司 2020.04-2021.01（9个月）
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>职位：中级运维开发工程师</td>
     <td>工作地点：上海-浦东新区</td>
   </tr>
-  <tr width="100">
+  <tr width="300">
     <td>所在部门：Infra Service</td>
     <td>汇报对象：Team Leader</td>
   </tr>
@@ -160,12 +160,12 @@
 
 ### 林德(中国)叉车有限公司 2008.04-2020.04（2年）
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>职位：Java开发工程师</td>
     <td>工作地点：上海-闵行区</td>
   </tr>
-  <tr width="100">
+  <tr width="300">
     <td>所在部门：Linde DevOps</td>
     <td>汇报对象：Team Leader</td>
   </tr>
@@ -194,12 +194,12 @@
 
 ### 英特克信息技术(武汉)有限公司 2016.07-2018.03（1年8个月）
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>职位：开发工程师</td>
     <td>工作地点：武汉-洪山区</td>
   </tr>
-  <tr width="100">
+  <tr width="300">
     <td>所在部门：开发部</td>
     <td>汇报对象：PM</td>
   </tr>
@@ -224,8 +224,8 @@
 
 ## 教育经历
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>武汉东湖学院</td>
     <td>计算机科学与技术/本科</td>
     <td>2012.09-2016.06</td>
@@ -238,8 +238,8 @@
 
 ### GSP Jenkins Shared Libary
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.01-至今</td>
@@ -270,8 +270,8 @@ OpenShift 集群中 Jenkins Shared Library
 
 ### GSP DevOps ETL
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.9-至今</td>
@@ -296,8 +296,8 @@ OpenShift 集群中 Jenkins Shared Library
 
 ### GSP LightSpeed UI
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.01-2021.07</td>
@@ -325,8 +325,8 @@ OpenShift 集群中 Jenkins Shared Library
 
 ### Swiss R-AliCloud
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：高知特信息技术(上海)有限公司</td>
     <td>职位：Junior DevOps Engineer</td>
     <td>时间：2020.04-2021.01</td>
@@ -355,8 +355,8 @@ OpenShift 集群中 Jenkins Shared Library
 
 ### 林德叉车租赁管理系统(AMS)
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：林德(中国)叉车有限公司</td>
     <td>职位：Java开发工程师(DevOps)</td>
     <td>时间：2019.01-2020.04</td>
@@ -388,8 +388,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 ### Still Fleet Management
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：凯傲集团(KionGroup)</td>
     <td>职位：Junior DevOps Engineer</td>
     <td>时间：2018.04-2018.12</td>
@@ -415,8 +415,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 ### 社内勤务系统开发
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2017.10-2018.03</td>
@@ -439,8 +439,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 ### 公司系统自动化开发
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2017.04-2017.07</td>
@@ -462,8 +462,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 ### 银行方面Finet
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2016.09-2017.03</td>
@@ -485,8 +485,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 ### 银行方面 じもと
 
-<table width="200">
-  <tr width="100">
+<table width="600">
+  <tr width="300">
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2016.07-2016.08</td>
