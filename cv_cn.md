@@ -225,7 +225,7 @@
 ## 教育经历
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>武汉东湖学院</td>
     <td>计算机科学与技术/本科</td>
     <td>2012.09-2016.06</td>
@@ -239,7 +239,7 @@
 ### GSP Jenkins Shared Libary
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.01-至今</td>
@@ -271,7 +271,7 @@ OpenShift 集群中 Jenkins Shared Library
 ### GSP DevOps ETL
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.9-至今</td>
@@ -297,7 +297,7 @@ OpenShift 集群中 Jenkins Shared Library
 ### GSP LightSpeed UI
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：Citi GSP DevOps</td>
     <td>职位：Senior DevOps Engineer</td>
     <td>时间：2021.01-2021.07</td>
@@ -326,7 +326,7 @@ OpenShift 集群中 Jenkins Shared Library
 ### Swiss R-AliCloud
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：高知特信息技术(上海)有限公司</td>
     <td>职位：Junior DevOps Engineer</td>
     <td>时间：2020.04-2021.01</td>
@@ -356,7 +356,7 @@ OpenShift 集群中 Jenkins Shared Library
 ### 林德叉车租赁管理系统(AMS)
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：林德(中国)叉车有限公司</td>
     <td>职位：Java开发工程师(DevOps)</td>
     <td>时间：2019.01-2020.04</td>
@@ -389,7 +389,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 ### Still Fleet Management
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：凯傲集团(KionGroup)</td>
     <td>职位：Junior DevOps Engineer</td>
     <td>时间：2018.04-2018.12</td>
@@ -416,7 +416,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 ### 社内勤务系统开发
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2017.10-2018.03</td>
@@ -440,7 +440,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 ### 公司系统自动化开发
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2017.04-2017.07</td>
@@ -463,7 +463,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 ### 银行方面Finet
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2016.09-2017.03</td>
@@ -486,7 +486,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 ### 银行方面 じもと
 
 <table width="600">
-  <tr width="300">
+  <tr>
     <td>所在公司：英特克信息技术(武汉)有限公司</td>
     <td>职位：软件开发工程师</td>
     <td>时间：2016.07-2016.08</td>
