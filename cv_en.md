@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td rowspan="7" width="20%"><center>
-      <img src="./sefie.jpeg" height="200" width="360"></center>
+      <img src="https://gitee.com/sirius_wang_wf/typora/raw/master/images/B612EEAE-BC39-4646-905E-E7D75C0025B0_1_105_c.jpeg" height="200" width="360"></center>
     </td>
   <tr>
     <td width="20%">Age</td>
@@ -31,8 +31,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## HightLights
@@ -44,20 +42,12 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 ### Vocational skills：
 
 1. Proficient in `Cloud Native`, including` k8s`, `openshift`, `AliCloud`, and `Azure`
-
 2. Proficient in CICD pipelines, including `jenkins` & `tekton` pipelines
-
 3. Proficient in `Python`, `Angular`, and `SQL`
-
 4. Proficient in `git`, command line and graphical interface, as well as the use of `Gitea`, `Gitlab` and `Github`.
-
 5. Stay hungry, stay foolish. Always learning
-
 6. Good at communication
-
 7. Have good document editing habits, and have personal document database.
-
-   
 
 ---
 
@@ -97,10 +87,7 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 ## Language
 
 - English： CET6（Great）
-
 - Janpanese：N3（General）
-
-  
 
 ---
 
@@ -129,8 +116,6 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 - Refactoring Core Apllication with adding Kafka and MongoDB
 - Creating GSP DevOps Doc Site
-
-
 
 ### Gien Tech 2021.1-2022.4（1 year 3 month）
 
@@ -163,8 +148,6 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 As vendor worked at Citi, transfertd to FTE
 
-
-
 ### Cognizant 2020.04-2021.01（7 month）
 
 <table>
@@ -193,8 +176,6 @@ As vendor worked at Citi, transfertd to FTE
 #### Reason for leaving：
 
 Working contents were bit easy for me. After communicating with the leader, there is still no suitable opportunity to change positions, But I want to have a better development in `DevOps`
-
-
 
 ### Linde Forklift Company 2018.04-2020.03（1 year 11 month）
 
@@ -226,8 +207,6 @@ Working contents were bit easy for me. After communicating with the leader, ther
 
 Over workload, there is no change after communicating with the leader. Although there is a lot of unwillingness in my heart, but I am also grateful for the future
 
-
-
 ### Intec Wuhan 2016.07-2018.03（1 year 8 month）
 
 <table>
@@ -256,8 +235,6 @@ Over workload, there is no change after communicating with the leader. Although 
 
 I came to Shanghai with my friends to seek new opportunities and better career development
 
-
-
 ---
 
 ## Education
@@ -269,8 +246,6 @@ I came to Shanghai with my friends to seek new opportunities and better career d
     <td>2012.09-2016.06</td>
   </tr>
 </table>
-
-
 ---
 
 ## Project experience
@@ -300,8 +275,6 @@ Department Doc Site based on Docsify and Markdown. Implement [Reference, Tutotia
 
 1. Refactor doc site
 2. Make content
-
-
 
 ### GSP DevOps Reflexion
 
@@ -335,8 +308,6 @@ Collect jenkins pipeline data and produce it to kafka, send log to S3
 2. Decoupling a single application to achieve read-write separation, multi-component services run stably and efficiently
 3. Efficient maintenance, quickly support users to solve later problems
 
-
-
 ### GSP Jenkins Shared Libary
 
 <table>
@@ -367,8 +338,6 @@ Jenkins Shared Library in open shift
 3. Mainly responsible for the training and guidance of new team members
 4. Harmonious teamwork
 
-
-
 ### GSP DevOps ETL
 
 <table>
@@ -394,8 +363,6 @@ Spring Boot projects that collecting the development team uses LightSpeed Piplin
 
 1. Accelerate internal discussions and plan implementation
 2. Almost everyting as code in this project
-
-
 
 ### GSP LightSpeed UI
 
@@ -423,8 +390,6 @@ Angular project, mainly to help users create a new LightSpeed Pipeline.
 1. Quickly investigate production problems. Due to a bug submitted by the development, the database is read and written wildly, and the UI interface has been 503
 2. Deployment optimization, Docker Image reduced by 50%, and deployment time reduced by 50%
 
-
-
 ### Swiss R-AliCloud
 
 <table>
@@ -451,8 +416,6 @@ Resource management, daily monitoring and maintenance of Alibaba Cloud under the
 1. Quickly learn the `Alibaba Cloud` management, and have the qualification of `Alibaba Cloud ACP` in 2 months
 2. Communicate with the manager in time
 3. Highly praised by `SwissR` customers and the company
-
-
 
 ### Linde Asset Management System(AMS)
 
@@ -486,8 +449,6 @@ The AMS project is delayed for two months before coming online, and many difficu
 3. Communicate project issues to manager in time to better communicate progress with users
 4. High user evaluation
 
-
-
 ### Still Fleet Management
 
 <table>
@@ -513,8 +474,6 @@ Germany Still DevOps led the development project. The first phase was mainly dev
 2. Got along well with colleagues
 3. Local synchronous construction of German development operation environment, including Sonar Qube, Jenkins, WordPress
 
-
-
 ### Internal service system development
 
 <table>
@@ -539,8 +498,6 @@ Mainly responsible for the detailed design of writing module, application unit t
 2. Code writing style was recognized and appreciated by Review colleagues
 3. Module function teste was serious and responsible, rarely criticized by users
 
-
-
 ### Development of management automation system in parent company
 
 <table>
@@ -563,8 +520,6 @@ Mainly involved in database construction, detailed design, single development, s
 
 1. High user satisfaction and few criticisms
 2. Communicated fully with the project manager and did a good job in reporting
-
-
 
 ### Banks Finet
 
@@ -589,8 +544,6 @@ Mainly responsible for unit development, unit test and Junit test.
 1. Fast learning and growth
 2. Got along well with colleagues
 
-
-
 ### Banks じもと
 
 <table>
@@ -612,8 +565,6 @@ Mainly responsible for unit testing and junit testing
 #### Performance：
 
 Quickly integrated into the environment, adapted to the day development work
-
-
 
 ---
 
