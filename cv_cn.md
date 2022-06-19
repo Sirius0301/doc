@@ -1,15 +1,15 @@
-# 王世敏 - 高级DevOps工程师
 
----
+
+# 王世敏 - 高级DevOps工程师
 
 <table>
   <tr>
     <td rowspan="7" width="20%"><center>
-      <img src="https://gitee.com/sirius_wang_wf/typora/raw/master/images/B612EEAE-BC39-4646-905E-E7D75C0025B0_1_105_c.jpeg" height="200" width="360"></center>
+      <img src="./sefie.jpeg" height="200" width="260"></center>
     </td>
   <tr>
     <td width="20%">年龄</td>
-    <td width="60%">28岁</td>
+    <td width="60%">29岁</td>
   </tr>
   <tr>
     <td>学历</td>
@@ -17,11 +17,11 @@
   </tr>
   <tr>
     <td >状态 / 公司 / 职位</td>
-    <td>在职 / 中电金信 / 高级运维开发工程师</td>
+    <td>在职 / 花旗金融 / Apps Dev Intermed Prgmr Anlyst (经理 S/C11)</td>
   </tr>
   <tr>
     <td>工作年限</td>
-    <td>5年3个月</td>
+    <td>6年</td>
   </tr>
   <tr>
     <td>手机</td>
@@ -32,6 +32,8 @@
     <td>sirius_wf@163.com</td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -45,10 +47,13 @@
 
 1. 熟练掌握云原生技能，包括搭建应用k8s集群，管理Openshift集群
 2. 熟练掌握云原生CICD流水线和Jenkins集群CICD流水线应用与二次开发
-3. 熟练掌握Python, Java, Angular 以及SQL 开发语言
+3. 熟练掌握Python, Angular 以及SQL 开发语言
 4. 精通Git，命令行和图形化界面很熟悉，以及Gitea, Gitlab, Github的使用 
 5. 善于沟通，理解能力和共情能力优秀
-6. 有良好的文档编辑习惯，EverNote使用5年，有个人博客及资料库
+6. 保持学习的热情和效率，喜欢接触新鲜事物
+6. 有良好的文档编辑习惯，有个人博客及资料库
+
+
 
 ---
 
@@ -83,6 +88,7 @@
   <tr>
 </table>
 
+
 ---
 
 ## 语言能力
@@ -90,11 +96,38 @@
 - 英语： CET6（优秀）
 - 日语：N3（一般）
 
+
+
 ---
 
 ## 工作经历
 
-### 中电金信 2021.01-至今（9个月）
+### 花旗金融 2022.04-至今（3个月）
+
+<table>
+ <tr>
+    <td>职位：Apps Dev Intermed Prgmr Anlyst (经理 S/C11)</td>
+    <td>工作地点：上海-浦东新区</td>
+  </tr>
+ <tr>
+    <td>所在部门：Citi GSP DevOps</td>
+    <td>汇报对象：Team Leader</td>
+  </tr>
+</table>
+
+#### 工作内容：
+
+- Vendor 转正，同中电金信工作内容
+- 增加Python应用开发工作及云原生Tekton Pipeline推广与二次开发
+
+#### 职业业绩：
+
+- 重构核心应用业务逻辑与代码。增加Kafka与Mongo DB中间件
+- 搭建内部文档网站，基础储备知识分享所学所得
+
+
+
+### 中电金信 2021.01-2022.4（1年3个月）
 
 <table>
  <tr>
@@ -110,20 +143,14 @@
 #### 工作内容：
 
 - 负责维护及二次开发OpenShift 集群内部Jenkins CICD流水线
+- 负责开发维护文档管理系统和内部Python应用
 - 负责和Application团队沟通，发现开发团队痛点和需求，实现能效开发提升
 - 负责团队文档编辑与整理，知识分享和DevOps文化传播
 - 学习，探索，实践业内最佳实践
 
-#### 职业业绩：
-
-- 8月在公司内部开展OpenShift 及 CICD 讲座，参加人数超过200人
-- 日常支持和指导Application团队CICD流水线使用
-- 快速学习并实践 Tekton Pipeline
-- 快速学习Python，负责开发，维护团队 Django工程
 
 #### 离职原因：
-
-外包驻场，许6个月转正，结果无望
+转正花旗正式员工
 
 
 
@@ -220,6 +247,8 @@
 
 应朋友之邀，到上海看看新机会
 
+
+
 ---
 
 ## 教育经历
@@ -232,9 +261,70 @@
   </tr>
 </table>
 
+
 ---
 
 ## 项目经验
+
+### GSP DevOps Doc Site
+
+<table>
+  <tr>
+    <td>所在公司：Citi GSP DevOps</td>
+    <td>职位：Apps Dev Intermed Prgmr Anlyst (经理 S/C11)</td>
+    <td>时间：2022.05-2022.06</td>
+  </tr>
+</table>
+
+#### 项目描述：
+
+基于Docsify与Markdown实现部门内部文档网站管理。实践[Reference, Tutotial, Guide, Support]最佳方案，帮助开发快速学习相关知识或获取工作中需要的帮助信息
+
+#### 项目职责：
+
+1. Docsify 站点代码修改与插件维护
+2. 组织和书写Markdown文档
+3. 自动化脚本实现菜单生成
+
+#### 项目业绩：
+
+1. 重构Docsify站点代码
+2. 补充和修改核心内容
+
+
+
+### GSP DevOps Reflexion
+
+<table>
+  <tr>
+    <td>所在公司：Citi GSP DevOps</td>
+    <td>职位：Apps Dev Intermed Prgmr Anlyst (经理 S/C11)</td>
+    <td>时间：2022.01-2022.05</td>
+  </tr>
+</table>
+
+#### 项目描述：
+
+Jenkins调用Jar包生产Jenkins 中Pipeline 数据数据到Kafka, 上传Log到S3。Relfexion Consumer 消费数据，存储MSSQL，并向用户发送邮件和记录Jira，包含组件：
+
+1. Reflexion Client (Java Command Line) -- Kafka Producer & Upload Log to S3mei
+2. Reflexion Consumer (Python confluent-kafka) -- Kafka Conmsumer
+3. Reflexion Service (Django with Rest Framework) -- 存储数据MSSQL，并向用户发送邮件和记录Jira
+
+#### 项目职责：
+
+1. Reflexion Client 测试与部署
+2. Reflexion Consumer 代码重构与测试，部署，维护
+3. Reflexion Service 代码重构与测试，部署，维护
+4. 数据库管理，与服务运维支持
+
+#### 项目业绩：
+
+1. 快速学习Confluent Kafka 并实际应用到项目中
+2. 解耦单体应用，实现读写分离，多组建服务稳定，高效运行，
+3. 后期高效维护与快速支持用户解决问题
+
+
 
 ### GSP Jenkins Shared Libary
 
@@ -245,7 +335,6 @@
     <td>时间：2021.01-至今</td>
   </tr>
 </table>
-
 #### 项目描述：
 
 OpenShift 集群中 Jenkins Shared Library
@@ -267,6 +356,8 @@ OpenShift 集群中 Jenkins Shared Library
 3. 编写丰富详尽的参考文档和示例供开发使用
 4. 一直主要负责对团队新人的培训和指导
 5. 团队合作融洽和睦
+
+
 
 ### GSP DevOps ETL
 
@@ -293,6 +384,8 @@ OpenShift 集群中 Jenkins Shared Library
 
 1. 业务需求和数据库设计都有详细的文档和解释，加速内部讨论和方案实施
 2. 从数据库管理，编译，部署，发布，文档都通过Bitbucket 管理，Everything as code. 
+
+
 
 ### GSP LightSpeed UI
 
@@ -386,6 +479,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 3. 及时和经理沟通项目中的问题，更好的和用户沟通进度
 4. 获得租赁业务部门和DevOps部门经理高度评价
 
+
+
 ### Still Fleet Management
 
 <table>
@@ -460,6 +555,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 1. 用户满意度较高，极少指摘
 2. 与项目经理充分沟通，报相连做的很好
 
+
+
 ### 银行方面Finet
 
 <table>
@@ -483,6 +580,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 1. 学习成长速度很快
 2. 与同事相处融洽
 
+
+
 ### 银行方面 じもと
 
 <table>
@@ -504,6 +603,8 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 #### 项目业绩：
 
 1. 很快融入环境，适应对日开发工作
+
+
 
 ---
 
