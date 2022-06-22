@@ -1,5 +1,3 @@
-
-
 # 王世敏 - 高级DevOps工程师
 
 <table>
@@ -73,10 +71,10 @@
       Python
     </td>
     <td>
-      Java
+      Database
     </td>
     <td>
-      Database
+      Java
     </td>
     <td>
       Angular
@@ -285,8 +283,8 @@
 
 Jenkins调用Jar包生产Jenkins 中Pipeline 数据数据到Kafka, 上传Log到S3。Relfexion Consumer 消费数据，存储MSSQL，并向用户发送邮件和记录Jira，包含组件：
 
-1. Reflexion Client (Java Command Line) -- Kafka Producer & Upload Log to S3mei
-2. Reflexion Consumer (Python confluent-kafka) -- Kafka Conmsumer
+1. Reflexion Client (Java Command Line) -- Kafka Producer & Upload Log to S3
+2. Reflexion Consumer (Python confluent-kafka) -- Kafka Consumer
 3. Reflexion Service (Django with Rest Framework) -- 存储数据MSSQL，并向用户发送邮件和记录Jira
 
 #### 项目职责：
@@ -302,7 +300,7 @@ Jenkins调用Jar包生产Jenkins 中Pipeline 数据数据到Kafka, 上传Log到S
 2. 解耦单体应用，实现读写分离，多组建服务稳定，高效运行，
 3. 后期高效维护与快速支持用户解决问题
 
-### GSP Jenkins Shared Libary
+### GSP Jenkins Shared Library
 
 <table>
   <tr>
@@ -314,9 +312,9 @@ Jenkins调用Jar包生产Jenkins 中Pipeline 数据数据到Kafka, 上传Log到S
 #### 项目描述：
 
 OpenShift 集群中 Jenkins Shared Library
-- 配置化其他工具的使用，通过Groovy 脚本实现调用其他工具，让开发简单调用其他CICD工具
+- 配置化其他工具的使用，通过Groovy 脚本实现调用其他工具，让开发简单调用其他CI/CD工具
 - 标准化Jenkinsfile 的书写格式，便于用户使用
-- 基于开发语言/Library OR Application 构建不同Jenkinsfile模版，让开发在应用的Jenkinsfile 只用写一行，即可实现CICD 自动化
+- 基于开发语言/Library OR Application 构建不同Jenkinsfile模版，让开发在应用的Jenkinsfile 只用写一行，即可实现CI/CD自动化
 
 #### 项目职责：
 
@@ -328,7 +326,7 @@ OpenShift 集群中 Jenkins Shared Library
 #### 项目业绩：
 
 1. 全权负责 Jenkins Shared Library 的开发和维护
-2. 内部宣讲和演练Jenkins Shared Libary使用及原理，参加人数超过200人
+2. 内部宣讲和演练Jenkins Shared Library使用及原理，参加人数超过200人
 3. 编写丰富详尽的参考文档和示例供开发使用
 4. 一直主要负责对团队新人的培训和指导
 5. 团队合作融洽和睦
@@ -345,14 +343,14 @@ OpenShift 集群中 Jenkins Shared Library
 
 #### 项目描述：
 
-收集开发团队使用LightSpeed Pipline，Jira 使用，Bitbucket 配置规范 等各种指标的Spring Boot 工程
+收集开发团队使用LightSpeed Pipeline，Jira 使用，Bitbucket 配置规范 等各种指标的Spring Boot 工程
 
 #### 项目职责：
 
 1. 梳理业务需求，后台关系型数据库数据结构设计
 2. 通过 `Flyway `管理数据库`DDL `和 `DML`
-3. 配置内部App Dynamic 和 OSE Moring 监控
-4. 配置Jenkinsfile, OpenShift Template.yml 文件，实现快速和灵活的CICD
+3. 配置内部App Dynamic 和 OSE Monitoring 监控
+4. 配置Jenkinsfile, OpenShift Template.yml 文件，实现快速和灵活的CI/CD
 
 #### 项目业绩：
 
@@ -376,7 +374,7 @@ OpenShift 集群中 Jenkins Shared Library
 #### 项目职责：
 
 1. 代码Bug修改，功能优化
-2. 镜像优化，修改angualr.json, package.json, dockerfile 
+2. 镜像优化，修改angular.json, package.json, dockerfile 
 3. 部署优化，修改configmap，使API 调用配置化 
 4. 与用户沟通，收集需求和优化已有功能
 
@@ -426,7 +424,7 @@ OpenShift 集群中 Jenkins Shared Library
 
 #### 项目描述：
 
-租赁业务部门采用数据化的方式来管理资产，替代原有 Excel 人工抄写的工作流程。 将租赁资产从 SAP 同步抽取到 AMS 来管理，但租赁相关合同，财务信息仍旧在 SAP。通过二维码来标记资产，AMS 来管理资产。AMS从0到1 完全由我们部门设计 、开发、运维。采用微服务架构，后台主要使用 Spring Boot, 部分用.Net Core, 前端 使用 Angualr7。部署在Linux服务器Docker容器中，Microsoft Teams 作为项目管理工 具，Gitea 作为代码管理工具，敏捷开发模式，开发时间为 2019-01-01—2019-08- 31 ，至今一直由DevOps部门在维护更新。
+租赁业务部门采用数据化的方式来管理资产，替代原有 Excel 人工抄写的工作流程。 将租赁资产从 SAP 同步抽取到 AMS 来管理，但租赁相关合同，财务信息仍旧在 SAP。通过二维码来标记资产，AMS 来管理资产。AMS从0到1 完全由我们部门设计 、开发、运维。采用微服务架构，后台主要使用 Spring Boot, 部分用.Net Core, 前端 使用 Angular7。部署在Linux服务器Docker容器中，Microsoft Teams 作为项目管理工 具，Gitea 作为代码管理工具，敏捷开发模式，开发时间为 2019-01-01—2019-08- 31 ，至今一直由DevOps部门在维护更新。
 
 AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公司过于传统，租赁部门对于业务数字化概念不清晰，也因项目人手不足而采用水平参差不齐的外包协助等
 
@@ -459,7 +457,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 #### 项目描述：
 
-德国 `Still DevOps `主导开发项目，一期主要由印度 DXC 开发，二期由德国 Still DevOps, 印度 DXC， 中国 DevOps 合作开发 Still 品牌车队管理系统 (NexxxtFleet)。分布式应用架构，后台主要 Spring boot 开发，前端使 用 Angular2。通过 Jira 管理项目，Confulence 记录 Wiki，SonarQube Review代码 ，Jenkins 持续集成和发布，敏捷开发模式
+德国 `Still DevOps `主导开发项目，一期主要由印度 DXC 开发，二期由德国 Still DevOps, 印度 DXC， 中国 DevOps 合作开发 Still 品牌车队管理系统 (NexxxtFleet)。分布式应用架构，后台主要 Spring boot 开发，前端使 用 Angular2。通过 Jira 管理项目，Confluence 记录 Wiki，SonarQube Review代码 ，Jenkins 持续集成和发布，敏捷开发模式
 
 #### 项目职责：
 
@@ -470,7 +468,7 @@ AMS 项目延期两个月才上线，中间克服了诸多困难。如由于公�
 
 1. 与德国同事充分沟通，模块发布部署基本一次成功
 2. 与同事相处合作融洽顺利
-3. 本地同步化搭建德国开发运行环境，包含Sonar Qube, Jenkins, WordPress
+3. 本地同步化搭建德国开发运行环境，包含SonarQube, Jenkins, WordPress
 
 ### 社内勤务系统开发
 

@@ -87,7 +87,7 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 ## Language
 
 - English： CET6（Great）
-- Janpanese：N3（General）
+- Japanese：N3（General）
 
 ---
 
@@ -109,12 +109,12 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 #### Responsibilities：
 
-- Trasfered from vendor to FTE. Same as Gien Tech
+- Transferred from vendor to FTE. Same as Gien Tech
 - Python application development work and cloud-native Tekton Pipeline promotion and secondary development
 
 #### Achievement：
 
-- Refactoring Core Apllication with adding Kafka and MongoDB
+- Refactoring Core Application with adding Kafka and MongoDB
 - Creating GSP DevOps Doc Site
 
 ### Gien Tech 2021.1-2022.4（1 year 3 month）
@@ -132,21 +132,21 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 #### Responsibilities：
 
-- Be responsible for the maintenance and secondary development of the Jenkins CICD pipeline in the OpenShift cluster
+- Be responsible for the maintenance and secondary development of the Jenkins CI/CD pipeline in the OpenShift cluster
 - Be responsible for communicating with the application team, discovering the pain points and needs of the development team, and achieving energy efficiency development improvement
 - Document editing, knowledge sharing and DevOps culture dissemination
 - Learning and practicing the best practices in DevOps
 
 #### Achievement：
 
-- In August, I hosted OpenShift and CICD sharing inside Citi, with more than 200 participants
-- Daily support and guide the application team to use CICD
+- In August, I hosted OpenShift and CI/CD sharing inside Citi, with more than 200 participants
+- Daily support and guide the application team to use CI/CD
 - Quickly learn and practice `tekton` pipeline
 - Learn Python quickly, be responsible for development, and maintain the `django` project
 
 #### Reason for leaving：
 
-As vendor worked at Citi, transfertd to FTE
+As vendor worked at Citi, transferred to FTE
 
 ### Cognizant 2020.04-2021.01（7 month）
 
@@ -166,7 +166,7 @@ As vendor worked at Citi, transfertd to FTE
 - Cooperating with overseas colleagues to manage Alibaba Cloud resources
 - Configuration, management, and operation of Alibaba Cloud Container Service
 - Using `Azure DevOps` to complete the business system `CI/CD`
-- Daily operation work by using `servicenow
+- Daily operation work by using `ServiceNow`
 
 #### Achievement：
 
@@ -200,7 +200,7 @@ Working contents were bit easy for me. After communicating with the leader, ther
 
 #### Achievement：
 
-- In the charge of `AMS`, including requirement analysis, achitecture, database designment, development and maintenance
+- In the charge of `AMS`, including requirement analysis, architecture, database designment, development and maintenance
 - Highly praised and recognized by leader and business users
 
 #### Reason for leaving：
@@ -263,13 +263,13 @@ I came to Shanghai with my friends to seek new opportunities and better career d
 
 #### Project description：
 
-Department Doc Site based on Docsify and Markdown. Implement [Reference, Tutotial, Guide, Support] best practice. Helping developers have the most useful sites for learning and the most useful sites for work.
+Department Doc Site based on Docsify and Markdown. Implement [Reference, Tutorial, Guide, Support] best practice. Helping developers have the most useful sites for learning and the most useful sites for work.
 
 #### Responsibility：
 
 1. Create Docsify Doc site and refactoring code
 2. Organize and write markdown content
-3. Create scirpts for auto menu and sidebar
+3. Create scripts for auto menu and sidebar
 
 #### Performance：
 
@@ -292,15 +292,15 @@ Department Doc Site based on Docsify and Markdown. Implement [Reference, Tutotia
 Collect jenkins pipeline data and produce it to kafka, send log to S3
 
 - Reflexion Client (Java Command Line) -- Kafka Producer & Upload log to S3
-- Reflexion Consumer (Python Confulent-Kafka) -- Kafka Conusmer
+- Reflexion Consumer (Python Confluent-Kafka) -- Kafka Consumer
 - Reflexion Service (Django with Rest Framework) -- Store data to MSSQL, Send email and log Jira
 
 #### Responsibility：
 
 1. Reflexion Client -- Test and Deployment
-2. Reflexion Consumer -- Refacot code, Test, Deployment, Maintainence
-3. Reflexion Service -- Refacot code, Test, Deployment, Maintainence
-4. MSSQL Mangement
+2. Reflexion Consumer -- Refactor code, Test, Deployment, Maintenance
+3. Reflexion Service -- Refactor code, Test, Deployment, Maintenance
+4. MSSQL Management
 
 #### Performance：
 
@@ -308,7 +308,7 @@ Collect jenkins pipeline data and produce it to kafka, send log to S3
 2. Decoupling a single application to achieve read-write separation, multi-component services run stably and efficiently
 3. Efficient maintenance, quickly support users to solve later problems
 
-### GSP Jenkins Shared Libary
+### GSP Jenkins Shared Library
 
 <table>
   <tr>
@@ -322,13 +322,13 @@ Collect jenkins pipeline data and produce it to kafka, send log to S3
 
 Jenkins Shared Library in open shift 
 
-- Configure the use of other tools, use Groovy scripts to call other tools, allowing development to easily call other CICD tools
+- Configure the use of other tools, use Groovy scripts to call other tools, allowing development to easily call other CI/CD tools
 - Standardize the format of Jenkinsfile, which is convenient for users to use
 
 #### Responsibility：
 
 1. Collecting user requirements, maintain and update Jenkins shared libraries
-2. Devloping multiple example as references for developers
+2. Developing multiple example as references for developers
 3. Supporting developers with Jenkins Shared Library
 
 #### Performance：
@@ -350,19 +350,19 @@ Jenkins Shared Library in open shift
 
 #### Project description：
 
-Spring Boot projects that collecting the development team uses LightSpeed Pipline, Jira use, Bitbucket configuration specifications and other indicators
+Spring Boot projects that collecting the development team uses LightSpeed Pipeline, Jira use, Bitbucket configuration specifications and other indicators
 
 #### Responsibility：
 
 1. Requirement analysis, database designment
 2. Manage database `DDL` and `DML` through `Flyway`
-3. Configure internal App Dynamic and OSE Moring monitoring
+3. Configure internal App Dynamic and OSE Monitoring
 4. Configure Jenkinsfile, OpenShift Template.yml file for this project
 
 #### Performance：
 
 1. Accelerate internal discussions and plan implementation
-2. Almost everyting as code in this project
+2. Almost everything as code in this project
 
 ### GSP LightSpeed UI
 
@@ -381,7 +381,7 @@ Angular project, mainly to help users create a new LightSpeed Pipeline.
 #### Responsibility：
 
 1. Code bug modification, function optimization
-2. Dockerfile optimization, modify angularr.json, package.json, dockerfile
+2. Dockerfile optimization, modify angular.json, package.json, dockerfile
 3. Deployment optimization, modify configmap, API configuration
 4. Communicate with users, collect requirements, and optimize existing functions
 
@@ -437,7 +437,7 @@ The AMS project is delayed for two months before coming online, and many difficu
 
 1. Before the development of the project, I am responsible for communicating with users about their needs, sorting out the leasing business, dividing the system modules so that they can be divided into modules, and designing and developing quickly according to the modules.
 2. After the module is divided, the front-end sketch is designed to communicate with users to determine the module development function.
-3. Set up management development test environment, Gitea service, manage Azue virtual machine, discuss and develop interface development specification with colleagues.
+3. Set up management development test environment, Gitea service, manage Azure virtual machine, discuss and develop interface development specification with colleagues.
 4. Responsible for code management and service publishing, continuous integration, continuous delivery and continuous deployment, management of Linux servers and Docker containers.
 5. In the later stage, I am responsible for the communication with the front and background development, and the optimization of the module code, and the unified modification of the general function code.
 6. Manage and monitor AMS service, operation and maintenance AMS service, and solve problems related to users and system
@@ -461,7 +461,7 @@ The AMS project is delayed for two months before coming online, and many difficu
 
 #### Project description：
 
-Germany Still DevOps led the development project. The first phase was mainly developed by India DXC, and the second phase was jointly developed by Germany Still DevOps, India DXC and China DevOps to develop Still brand fleet management system (NexxxtFleet). Distributed application architecture was adopted. The main Spring boot was developed in the background and Angular2 was used in the front end. Managed projects through Jira, Confulence documented Wiki, SonarQube Review code, Jenkins continuous integration and release, agile development patterns.It was part of KionGroup DevOps, the same as StillDevOps in Germany, but in different administrative areas by region. Cooperated with German colleagues to develop and maintain OperatingHours module. Responsible for background code modification, Junit unit testing, module release and deployment
+Germany Still DevOps led the development project. The first phase was mainly developed by India DXC, and the second phase was jointly developed by Germany Still DevOps, India DXC and China DevOps to develop Still brand fleet management system (NexxxtFleet). Distributed application architecture was adopted. The main Spring boot was developed in the background and Angular2 was used in the front end. Managed projects through Jira, Confluence documented Wiki, SonarQube Review code, Jenkins continuous integration and release, agile development patterns.It was part of KionGroup DevOps, the same as StillDevOps in Germany, but in different administrative areas by region. Cooperated with German colleagues to develop and maintain OperatingHours module. Responsible for background code modification, Junit unit testing, module release and deployment
 
 #### Responsibility：
 
@@ -496,7 +496,7 @@ Mainly responsible for the detailed design of writing module, application unit t
 
 1. Consulted colleagues modestly, and got senior colleagues' approval for document editing
 2. Code writing style was recognized and appreciated by Review colleagues
-3. Module function teste was serious and responsible, rarely criticized by users
+3. Module function test was serious and responsible, rarely criticized by users
 
 ### Development of management automation system in parent company
 
