@@ -1,13 +1,13 @@
-# Sirius Wang - Senior DevOps Engineer
+# Shimin Wang - Full Stack Web Developer Internet of Things
 
 <table>
   <tr>
     <td rowspan="7" width="20%"><center>
-      <img src="https://gitee.com/sirius_wang_wf/typora/raw/master/images/B612EEAE-BC39-4646-905E-E7D75C0025B0_1_105_c.jpeg" height="200" width="360"></center>
+      <img src="https://img1.imgtp.com/2023/06/26/NiXw3C4T.png" height="160" width="350"></center>
     </td>
   <tr>
     <td width="20%">Age</td>
-    <td width="60%">29岁</td>
+    <td width="60%">30</td>
   </tr>
   <tr>
     <td>Bachelor</td>
@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td >Status / Company / Title</td>
-    <td>On Job / CitiGroup Services and Technology(China) Limited / Apps Dev Intermed Prgmr Anlyst (S/C11)</td>
+    <td>On Job / Endress + Hauser InfoServe (Shanghai) Co., Ltd. / Full Stack Web Developer Internet of Things</td>
   </tr>
   <tr>
     <td>Working Age</td>
-    <td>6 years</td>
+    <td>7 years</td>
   </tr>
   <tr>
     <td>Telephone</td>
@@ -41,13 +41,13 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 ### Vocational skills：
 
-1. Proficient in `Cloud Native`, including` k8s`, `openshift`, `AliCloud`, and `Azure`
-2. Proficient in CICD pipelines, including `jenkins` & `tekton` pipelines
-3. Proficient in `Python`, `Angular`, and `SQL`
-4. Proficient in `git`, command line and graphical interface, as well as the use of `Gitea`, `Gitlab` and `Github`.
-5. Stay hungry, stay foolish. Always learning
-6. Good at communication
-7. Have good document editing habits, and have personal document database.
+1. Proficient in `Github`, `Alibaba Cloud`, `AWS Lambda`
+2. Proficient in `Cloud Native`, including` k8s`, `openshift`, `Terraform`
+3. Proficient in CICD pipelines, including `jenkins`, `tekton` pipelines, `Github Actions`, `Gitlab workflow`
+4. Proficient in `Python`, `React`, and `SQL`, and `Ruby On Rails`
+5. Proficient in `git`, command line and graphical interface, as well as the use of `Github`, `Gitlab` and `Bitbucket`.
+6. Have good document editing habits, and have personal document database.
+7. Good at communication. Stay hungry, stay foolish. Always learning
 
 ---
 
@@ -71,13 +71,13 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
       Python
     </td>
     <td>
-      Java
+      Ruby On Rails
     </td>
     <td>
       Database
     </td>
     <td>
-      Angular
+      React
     </td>
   <tr>
 </table>
@@ -93,7 +93,36 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 ## Experience
 
-### CitiGroup Services and Technology(China) Limited 2022.4-Now（3 month）
+### Endress + Hauser InfoServe (Shanghai) Co., Ltd. 2022.9-Now
+
+<table>
+ <tr>
+    <td>Title：Full Stack Web Developer Internet of Things</td>
+    <td>Area：Shanghai-Minhang</td>
+  </tr>
+ <tr>
+    <td>Department：Netilion</td>
+    <td>Report To：Team Leader</td>
+  </tr>
+</table>
+
+#### Responsibilities：
+
+- Aliyun & AWS China Administrator, Jira Administrator
+- Develop and maintain web applications that integrate with IoT device (Rails On React framework)
+- Collaborate with cross-functional teams, including oversea developers, hardware engineers and IoT specialists
+- Collect and analyze data from IoT devices to provide meaningful insights and improve the user experience
+- Document the development process, system architecture, and codebase for future reference and knowledge sharing
+
+#### Achievement：
+
+- Efficiently administered Aliyun and AWS China platforms, ensuring optimal utilization of cloud resources
+- Developed and maintained web applications integrating with IoT devices using the Rails on React framework, enhancing user experience
+- Efficiently collaborated with cross-functional teams
+- Overcame challenges during web application and IoT device integration, showcasing problem-solving skills.
+
+
+### CitiGroup Services and Technology(China) Limited 2022.4-2022.9（5 month）
 
 <table>
  <tr>
@@ -106,7 +135,6 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
   </tr>
 </table>
 
-
 #### Responsibilities：
 
 - Transferred from vendor to FTE. Same as Gien Tech
@@ -115,7 +143,13 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 #### Achievement：
 
 - Refactoring Core Application with adding Kafka and MongoDB
-- Creating GSP DevOps Doc Site
+- Created GSP DevOps Doc Site
+
+#### Reason for leaving：
+
+Personally, I don't advocate evaluating the efficiency of development teams when DevOps maturity is still low.
+Friends I admire invites me to his new team.
+
 
 ### Gien Tech 2021.1-2022.4（1 year 3 month）
 
@@ -148,6 +182,7 @@ Wide technology coverage, hard-working, not afraid of challenges, strong sense o
 
 As vendor worked at Citi, transferred to FTE
 
+
 ### Cognizant 2020.04-2021.01（7 month）
 
 <table>
@@ -170,12 +205,13 @@ As vendor worked at Citi, transferred to FTE
 
 #### Achievement：
 
-- I won `the ace of rookie` on june 2020
+- I won `The ace of rookie` on june 2020
 - Highly praised and recognized by SwissR customers
 
 #### Reason for leaving：
 
 Working contents were bit easy for me. After communicating with the leader, there is still no suitable opportunity to change positions, But I want to have a better development in `DevOps`
+
 
 ### Linde Forklift Company 2018.04-2020.03（1 year 11 month）
 
@@ -206,6 +242,7 @@ Working contents were bit easy for me. After communicating with the leader, ther
 #### Reason for leaving：
 
 Over workload, there is no change after communicating with the leader. Although there is a lot of unwillingness in my heart, but I am also grateful for the future
+
 
 ### Intec Wuhan 2016.07-2018.03（1 year 8 month）
 
