@@ -1,23 +1,13 @@
 # Hello Mac Book Pro
 
-## 基本信息
-
-<img src="https://gitee.com/sirius_wang_wf/typora/raw/master/images/image-20210627125446948.png" alt="image-20210627125446948"  />
-
-![image-20210627131806975](https://gitee.com/sirius_wang_wf/typora/raw/master/images/image-20210627131806975.png)
-
 ## 安装软件
 
-- [Evernote](https://www.yinxiang.com/download/)
 - [Node.js](https://nodejs.org/en/download/)
 - [Typora](https://typora.io/)
 - [Vscode](https://code.visualstudio.com/)
 - [Python 3.9](https://www.python.org/downloads/)
 - [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac)
 - [Brew](https://github.com/Homebrew/brew)
-- [Picgo](https://picgo.github.io/PicGo-Doc/en/guide/#picgo-is-here)
-- [Picgo-core(Command line)](https://picgo.github.io/PicGo-Core-Doc/zh/guide/)
-- [网易邮箱大师](https://mail.163.com/dashi/)
 - [X mind](https://www.xmind.net/)
 
 ## 基本配置
